@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(206, 147, 234);
+    font-family: "Tangerine", cursive;
+}
+
+footer {
+    background-color: rgb(151, 42, 205);
+    color: rgb(7, 6, 8);
+    bottom: 0;
+    position: fixed;
+    width: 300%;
+height: 2rem; ;
+
+}
+
+footer p{
+    text-align: center;
+    font-size: 1rem ;
+    margin: top 0.5rem; ;
+
+}
